@@ -1,0 +1,21 @@
+{
+  "name": "dev_utils",
+  "version": "1.0.0",
+  "description": "development tool functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push":"./linux/push.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lok660/dev_utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lok660/dev_utils/issues"
+  },
+  "homepage": "https://github.com/lok660/dev_utils#readme"
+}
