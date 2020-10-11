@@ -13,5 +13,6 @@ const objectToQueryString = queryParameters => {
 };
 
 // EXAMPLES
+
 const a = objectToQueryString({ page: '1', size: '2kg', key: undefined }); // '?page=1&size=2kg'
 console.log(a)
